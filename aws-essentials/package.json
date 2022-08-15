@@ -1,0 +1,29 @@
+{
+  "name": "aws-essentials",
+  "displayName": "AWS Essentials",
+  "description": "Here are some of the essentials extensions needed during development of AWS systems",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "aws-amplify.aws-amplify-vscode",
+    "poyashad.display-aws-amplify-environment",
+    "congnguyendinh0.aws-amplify-flutter-snippet",
+    "boto3typed.boto3-ide",
+    "mark-tucker.aws-cli-configure",
+    "john-goldsmith.vscode-aws-cloudformation-auto-template-generator",
+    "yamlhunter.yamltemplatemaker",
+    "mziyabo.vscode-codedeploy",
+    "vscode-aws-console.vscode-aws-console",
+    "loganarnett.lambda-snippets",
+    "antstack.aws-js-code-snippet",
+    "amazonwebservices.aws-toolkit-vscode",
+    "sameeramin.cdk-snippets-for-python",
+    "rafwilinski.dynamodb-vscode-snippets"
+  ],
+  "publisher": "teetangh"
+}
